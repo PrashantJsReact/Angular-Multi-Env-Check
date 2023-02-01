@@ -1,0 +1,21 @@
+.comp_five{
+    margin-top: 50px;
+    height: 50Vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(215, 114, 151);
+}
+
+.comp_five_button{
+    background-color: rgb(225, 0, 203);
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.comp_five_button:hover{
+    background-color: white;
+    color: royalblue;
+}

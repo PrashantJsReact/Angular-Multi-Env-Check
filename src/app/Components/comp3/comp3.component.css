@@ -1,0 +1,21 @@
+.comp_three{
+    margin-top: 50px;
+    height: 50Vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(225, 233, 10);
+}
+
+.comp_three_button{
+    background-color: rgb(225, 0, 203);
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.comp_three_button:hover{
+    background-color: white;
+    color: royalblue;
+}

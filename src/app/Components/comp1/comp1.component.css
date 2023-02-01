@@ -1,0 +1,21 @@
+.comp_one{
+    margin-top: 50px;
+    height: 50Vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.comp_one_button{
+    background-color: royalblue;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.comp_one_button:hover{
+    background-color: white;
+    color: royalblue;
+}

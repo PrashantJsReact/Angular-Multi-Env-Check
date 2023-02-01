@@ -1,0 +1,21 @@
+.comp_two{
+    margin-top: 50px;
+    height: 50Vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(248, 162, 14);
+}
+
+.comp_two_button{
+    background-color: rgb(121, 234, 9);
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.comp_two_button:hover{
+    background-color: white;
+    color: royalblue;
+}
